@@ -1,0 +1,13 @@
+{
+  "name": "gamenative-optimizer",
+  "version": "1.0.0",
+  "description": "Ультимативный набор инструментов для оптимизации игр в GameNative (Winlator) через Gemini CLI.",
+  "mcpServers": {
+    "gamenative": {
+      "command": "${extensionPath}/venv/bin/python",
+      "args": ["${extensionPath}/gamenative-mcp/mcp_server.py"],
+      "cwd": "${extensionPath}"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
