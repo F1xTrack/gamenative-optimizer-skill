@@ -13,7 +13,7 @@ gemini extensions install https://github.com/F1xTrack/gamenative-optimizer-skill
 Чтобы MCP-сервер заработал, необходимо создать виртуальное окружение и установить зависимости внутри папки расширения:
 
 ```bash
-cd ~/.gemini/extensions/gamenative-optimizer-skill
+cd ~/.gemini/extensions/gamenative-optimizer
 python3 -m venv venv
 ./venv/bin/pip install mcp
 ```
