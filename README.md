@@ -3,7 +3,7 @@
 Этот репозиторий содержит набор навыков (Skills) для Gemini CLI и MCP-сервер для автоматизации и оптимизации игр в GameNative.
 
 ## Внимание
-Этот проект работает **только** в связке с вашим форком GameNative:
+Этот проект работает **только** в связке с нашим форком GameNative:
 [https://github.com/F1xTrack/GameNative](https://github.com/F1xTrack/GameNative)
 
 ## Инструкции
